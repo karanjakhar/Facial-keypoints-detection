@@ -7,4 +7,4 @@ left_eye_center, right_eye_center, left_eye_inner_corner,  left_eye_outer_corner
 
 Left and right here refers to the point of view of the subject.
 
-![img](/home/karan/kj_workspace/kj_git_projects/Facial-keypoints-detection/images/README.md)
+![img](images/README.md)
